@@ -7,8 +7,8 @@ a partire da caratteristiche morfologiche del nucleo cellulare (dataset WDBC, UC
 
 Il problema è trattato come classificazione binaria supervisionata con un'asimmetria
 dei costi esplicita: mancare un tumore maligno (falso negativo) è clinicamente molto
-più grave che richiamare una paziente sana. Tutta la pipeline — dalla scelta della
-metrica di tuning all'analisi della soglia decisionale — è costruita attorno a questo
+più grave che richiamare una paziente sana. Tutta la pipeline - dalla scelta della
+metrica di tuning all'analisi della soglia decisionale - è costruita attorno a questo
 vincolo.
 
 ## Modelli confrontati
