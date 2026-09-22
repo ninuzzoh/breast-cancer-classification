@@ -42,7 +42,7 @@ ripetuta (0.966) e deviazione standard più contenuta (0.021).
 
 ## Dataset
 
-Breast Cancer Wisconsin (Diagnostic) — caricato automaticamente via `ucimlrepo`,
+Breast Cancer Wisconsin (Diagnostic) - caricato automaticamente via `ucimlrepo`,
 569 osservazioni, 30 feature numeriche, nessun valore mancante.
 
 ## Esecuzione
