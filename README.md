@@ -1,4 +1,4 @@
-# Classificazione supervisionata — Breast Cancer Wisconsin
+# Classificazione supervisionata - Breast Cancer Wisconsin
 
 Confronto di quattro classificatori per la diagnosi di masse mammarie benigne e maligne
 a partire da caratteristiche morfologiche del nucleo cellulare (dataset WDBC, UCI).
